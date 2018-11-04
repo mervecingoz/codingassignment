@@ -1,0 +1,16 @@
+[  
+   {  
+      "driver":{"id":1},
+      "fueltype":"DIESEL",
+      "price":5,
+      "volume":56,
+      "date":"05.05.2018"
+   },
+   {  
+      "driver":{"id":2},
+      "fueltype":"FUEL_98",
+      "price":7,
+      "volume":67,
+      "date":"04.04.2018"
+   }
+]
